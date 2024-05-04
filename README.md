@@ -1,1 +1,1 @@
-# Java Autotests 2 Netology
+# Java Autotests 2 Netology [![Build status](https://ci.appveyor.com/api/projects/status/yr4udu7c7yowfb0j?svg=true)](https://ci.appveyor.com/project/dadosha/java-auto-2-3)
